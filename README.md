@@ -1,8 +1,6 @@
 # Marlin 3D Printer Firmware for Me3D
 
-<img align="top" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
-
-<img align="top" width=175 src="buildroot/share/pixmaps/logo/Me3D%20Logo_no%20background.png" />
+<img align="top" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" /> <img align="top" width=175 src="buildroot/share/pixmaps/logo/Me3D%20Logo_no%20background.png" />
 
 
 Additional documentation can be found at [The Marlin Documentation Project](https://www.marlinfw.org/).
