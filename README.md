@@ -2,6 +2,9 @@
 
 <img align="top" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
 
+<img align="top" width=175 src="buildroot/share/pixmaps/logo/Me3D%20Logo_no%20background.png" />
+
+
 Additional documentation can be found at [The Marlin Documentation Project](https://www.marlinfw.org/).
 Please test this firmware and inform us if it misbehaves in any way, volunteers are standing by!
 
